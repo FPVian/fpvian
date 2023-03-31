@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ian 👋
+
+I'm a strategy advisor turned data engineer that's passionate about using data to drive business decisions. 
 
 <!--
 **FPVian/fpvian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
