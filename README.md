@@ -23,6 +23,7 @@ I'm a strategy advisor turned data engineer that's passionate about using data t
     <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /></a>
     <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /></a>
     <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a>
+    <a href="https://www.palantir.com/platforms/foundry/"><img src="https://img.shields.io/badge/Cloud%20Foundry-0C9ED5?style=for-the-badge&logo=Cloud%20Foundry&logoColor=white" /></a>
     <a href="https://www.snowflake.com/"><img src="https://camo.githubusercontent.com/f2877c333d2582dde3bf317879520f4e0532908fea4845af3fbdde39fa11df5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736e6f77666c616b652d3239423545382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d736e6f77666c616b65266c6f676f436f6c6f723d7768697465" /></a>
     <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
     <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
